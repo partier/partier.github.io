@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://partierapp.com
+url:              http://www.partierapp.com/blog/
 paginate:         1
-baseurl:          http://partierapp.com/blog/
+baseurl:          http://www.partierapp.com/blog/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo

@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: 'Neuton', serif;
+  font-size: 22px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 
@@ -82,21 +82,25 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  font-family: 'Montserrat', serif;
 }
 h1 {
   font-size: 2rem;
+  font-weight: 700;
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-weight: 400;
 }
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  color: #424242;
 }
 h4, h5, h6 {
   margin-top: 1rem;

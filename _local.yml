@@ -3,12 +3,12 @@ permalink:        /blog/:year/:month/:day/:title.html
 relative_permalinks: true
 
 # Setup
-title:            Partier Blog
+title:            Partier Blog (Local)
 tagline:          An injection of controlled chaos.
-url:              http://partierapp.com/
+url:              http://localhost:4000/
 paginate:         3
 paginate_path:    "blog/page:num/"
-baseurl:          http://partierapp.com/
+baseurl:          /
 author:
   name:           Zachary Lewis
   url:            https://twitter.com/zachwlewis

@@ -7,7 +7,7 @@ title:            Partier Blog
 tagline:          An injection of controlled chaos.
 url:              http://partierapp.com/blog
 paginate:         1
-baseurl:          http://partierapp.com/blog/
+baseurl:          /blog/
 author:
   name:           Zachary Lewis
   url:            https://twitter.com/zachwlewis

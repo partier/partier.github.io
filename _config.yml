@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Partier Blog
+tagline:          An injection of controlled chaos.
+url:              http://partierapp.com/blog
+paginate:         1
+baseurl:          http://partierapp.com/blog/
+author:
+  name:           Zachary Lewis
+  url:            https://twitter.com/zachwlewis
+  email:          zachwlewis@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/partier/partier.github.io

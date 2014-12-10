@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 23 November Weekly Meeting
+title: "Development Diary: 17–23 November"
 author: Ben Day
 ---
 

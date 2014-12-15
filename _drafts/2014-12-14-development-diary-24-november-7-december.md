@@ -12,4 +12,6 @@ Before everyone became preoccupied with career advancement or food poisoning, we
 
 Brandon has got his issues with PubNub figured out. PubNub is the data delivery service middleware we're using to communicate with the clients. The most recent issue with it so far has been the push notifications. After fixing a simple mistake, Brandon has notifications generating in the notification tray when PubNub sends a 'push.' 
 
-Zachary has been getting our blog services set up for us, including not making me sound retarded
+And last but not least, Zachary has been getting our blog services set up for us, including ~~ensuring I don't sound retarded~~ *editing these posts for clarity.* He's also going to be looking to help the iOS build with PubNub integration and anywhere else that could use his wizardry.
+
+That's all for this week! We'll try to get a post up once every week or two with new content and progress. Til then, have a good one!
